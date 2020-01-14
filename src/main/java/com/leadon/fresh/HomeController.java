@@ -37,7 +37,7 @@ public class HomeController {
 	}
 
     /**
-     * Tiles를 사용하지 않은 일반적인 형태
+     * Tiles를 사용하지 않은 일반적인 형태 git 에 올리기 위한 주석문 변경
      */    
     @RequestMapping("/test.do")
     public String test() {
